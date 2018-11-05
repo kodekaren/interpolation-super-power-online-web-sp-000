@@ -1,1 +1,4 @@
-def display_rainbpw ()# Write your #display_rainbow method here
+def display_rainbpw ()
+  puts 
+end
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
